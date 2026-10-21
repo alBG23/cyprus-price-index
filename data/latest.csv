@@ -1,0 +1,9 @@
+month,category,products_in_stock,products_at_2plus_shops,avg_gap_cheapest_to_most_expensive_pct,median_gap_pct,cheapest_shop_most_often,cheapest_shop_share_pct
+2026-10,Beauty,98763,14771,20.5,13.3,MyPharmacy,76
+2026-10,Electronics,106733,7076,26.6,15,MSystems,79
+2026-10,Baby & Toys,83636,4891,10.4,0.2,Toys-shop,20
+2026-10,Home Appliances,21233,3355,20,12,Kotsovolos,39
+2026-10,Pet,19561,796,12.6,9.7,Pets For All,50
+2026-10,Home & Furniture,53304,537,16.9,8.5,Toys-shop,51
+2026-10,Sport,18646,296,11.3,1.1,Runner Store,40
+2026-10,All categories,402103,31727,19.9,,,
